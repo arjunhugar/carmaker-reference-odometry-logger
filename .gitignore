@@ -1,0 +1,6 @@
+SimOutput/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.log
